@@ -1,0 +1,43 @@
+CISC 3300 SP24 
+Homework 1 
+1. What is HTML? What does it do? 
+ HTML is a markup language that helps programmers make the structure of a website and the elements that users can interact with.
+
+2. Access https://www.fordham.edu/. In your own words, describe how this webpage uses structure to convey meaning and navigation options to the user.
+
+How Fordham uses its website in a way that makes it not only easy to understand where you need to go but also every
+ link leads to key sections that aren’t hard to get to.
+ For example their Academics tab helps students find links to Undergraduate and Graduate schools 
+ which can help them figure out which campus is best for them. 
+ Student Life also features many different tabs for students to 
+ view that will help them get a better idea of how campus life is like and also warns them of Public Safety,
+  Health and Wellness. Finally, features like "Find a Degree," "Find People," "Apply," "Visit," "Give," and “News” 
+  are readily accessible, which caters to students and donors alike.  
+ 
+3. What is an HTML element? Tag? Attribute? 
+
+A HTML element is a collection of start and end tags with the content inserted between them. 
+A tag acts as a sort of container with an example being <p> being an opening tag and <p/> being a closing tag 
+which essentially is the idea of a markup. Finally an Attribute not only tells us more about the elements 
+but it also provides additional information about the contents of an element. 
+ 
+4. What does it mean when an element has semantic meaning? And structural meaning? 
+
+When an element has semantic meaning it means that it is able to convey meaning by their element type.
+ Also Structural elements with meaning have an effect on the structure of a page. 
+
+5. What is the default behavior when submitting a HTML form? 
+
+When submitting a HTML form if there is a action attribute then the default behavior is to send it to the url 
+
+6. Create a webpage for a fake business of your choosing. It should have: 
+a. an h1 element with the title of the business 
+b. a p element with a description of the business 
+c. a subsection with a sub heading and p element describing that section 
+d. create an images directory and put a relevant image in the directory, include that image on the webpage via a src attribute with a relative path. 
+e. a contact form which should have: 
+i. a text input element for first name with a label 
+ii. a text input element for last name with a label 
+iii. an email element with a label 
+iv. a submit element with a value of “Submit” 
+Please create a directory called homework-1 in your local repository, include a .txt file with the answers for questions 1-5 and an .html file for question 6 on submission.
