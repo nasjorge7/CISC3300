@@ -9,5 +9,6 @@ In class assignment 8
 6. Create a webpage that has a JavaScript component. In that Javascript component: 
 1. Add a string and a number together, console.log and explain the output. 
 2. Run the output of the Number() function twice, once with a true boolean and once with a false boolean, console.log and explain the output. 
-3. Run the output of the Boolean() function on 1, 0, and a string “0”, console.log and explain the output. 
+3. Run the output of the Boolean() function on 1, 0, and a string “0”, console.log and explain the output.
+EXPLANATION: Essentially Boolean(1) the output is True because of the fact that any non zero number is truthy. For Boolean(0) the output is false because 0 is considered to be falsy and finally in the last Boolean("0") the output is true because any non empty string is truthy even if it is 0.
 4. Please take a screenshot of your browser console with the output from 1-3
