@@ -1,0 +1,27 @@
+CISC 3300 S25 
+Homework 3 
+1. Compare and contrast Flexbox and CSS grid, how are they alike and how are they different? 
+
+Some similarities between Flex and Grid are that both are responsive layouts.
+ Regardless of whatever layout you choose for your application,as long as you properly configure the properties, both layout types are responsive to multiple screen sizes. 
+   Another similarity is that setting the parent's elements layout first is similar because when styling a flex or grid layout, the parent element is styled using the specific layout in question.
+     Some differences between them is that while a CSS grid is a 2d layout system, 
+     Flexbox is instead a 1d layout system. Another difference is that Grids allows you to arrange things in rows and columns, 
+     making it easy to design complicated layouts while Flexbox works with elements placed in a linear order.
+
+2. What’s responsive design in web development and how do we implement it?
+
+Responsive Web design proposes that design and development should adapt to the user's behavior
+ and environment based on screen size, platform, and orientation. 
+ The method includes a combination of flexible grids and layouts, pictures, 
+ and the strategic use of CSS media queries.
+  How you implement is by using a Fluid Grid Layout and use symbols such as %.
+
+
+
+ 3. Create a HTML file with a flex container and three flex items. Give the flex items a color and width/height of 100px. For screens <500px wide have the items flow vertically and >= 500px flow horizontally. 
+4. Create a form with bootstrap, should have a few input elements, labels, and a submit button. 
+5. You are the web designer for the Computer Science Department at Fordham. You have been asked to design this mock up for the CS homepage. 
+https://www.fordham.edu/undergraduate-admission/majors-and-minors/computer-scienc e/ 
+a. Try to get as close as possible to the mock up, with colors and the font(Raleway), etc. It does not need to be pixel perfect. The image can be accessed here: https://www.fordham.edu/media/review/content-assets/migrated/images/iStock_0 00021097427Medium.jpg
+
