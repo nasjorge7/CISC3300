@@ -1,0 +1,17 @@
+CISC 3300 S25 
+Homework 4 
+1. How does an interpreted programming language differ from a compiled language? 
+In an interpreted language, the source code is not directly translated by the target machine. Instead, a different program, aka the interpreter, reads and executes the code.  In a Compiled language the program, once compiled, is expressed in the instructions of the target machine; this machine code is undecipherable by humans.
+2. Contrast dynamically typed programming languages with statically typed ones. And contrast strongly typed programming languages with weakly typed ones. 
+Dynamically typed languages check types at runtime, allowing variable types to change. Statically typed languages enforce types at compile time, fixing them to variables. Weakly typed languages allow implicit type conversions, making them more flexible but potentially error-prone. Strongly typed languages enforce strict type rules, reducing unintended conversions.
+3. What is the difference between var, let, and const when declaring variables in JS? 
+In JavaScript, var is the older way to declare variables, having function and global scope, and it can be redeclared. let is block-scoped, meaning it only exists within the block where it was defined, but it can still be reassigned. const is also block-scoped, but once assigned, its value cannot be changed or redeclared.
+4. What are anonymous functions? Higher order functions? Callback functions? First class functions? 
+In a language with first-class functions, functions are treated like any other variable, meaning they can be assigned to variables, passed as arguments, or returned from other functions.
+Higher-order functions are functions that either take other functions as arguments or return them as results.
+A callback function is a function passed as an argument to another function and executed later.
+An anonymous function is a function without a name, often used as a quick, inline function expression.
+
+5. Define objects in JavaScript. 
+
+Literal constructor = {key:‘value’}
