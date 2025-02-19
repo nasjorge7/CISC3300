@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="text">Initial Text</p>
+<button onclick="changeText()">Click Me</button>
+
+<script>
+function changeText() {
+    document.getElementById("text").setAttribute("style", "background-color: yellow;");
+    document.getElementById("text").innerHTML = "Added Text";
+}
+</script>
+
+</body>
+</html>
