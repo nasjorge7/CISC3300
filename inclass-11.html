@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AJAX Example</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+    <button id="ajax-get">Fetch Data</button>
+
+    <div id="cats-container"></div>
+
+    <script>
+        $('#ajax-get').on('click', function () {
+            $.ajax({
+                url: 'http://localhost:8888/',
+                type: "GET",
+                dataType: "json",
+                success: function (data) {
+                    console.log(data);
+
+                    $('#cats-container').empty(); 
+
+                    $.each(data, function (key, value) {
+                        $('#cats-container').append(`<div class="cat">${value['name']}</div>`);
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.error("Error:", error);
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>
