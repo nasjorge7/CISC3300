@@ -1,0 +1,37 @@
+6:05:23 PM  [main] 	Initializing Control Panel
+6:05:23 PM  [main] 	Windows Version:  Home  64-bit
+6:05:23 PM  [main] 	XAMPP Version: 8.2.12
+6:05:23 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+6:05:23 PM  [main] 	You are not running with administrator rights! This will work for
+6:05:23 PM  [main] 	most application stuff but whenever you do something with services
+6:05:23 PM  [main] 	there will be a security dialogue or things will break! So think 
+6:05:23 PM  [main] 	about running this application with administrator rights!
+6:05:23 PM  [main] 	XAMPP Installation Directory: "c:\users\nasir\users\you\classwork\cisc3300\mamp\"
+6:05:23 PM  [main] 	Checking for prerequisites
+6:05:23 PM  [main] 	All prerequisites found
+6:05:23 PM  [main] 	Initializing Modules
+6:05:23 PM  [mysql] 	Problem detected!
+6:05:23 PM  [mysql] 	Port 3306 in use by "Unable to open process"!
+6:05:23 PM  [mysql] 	MySQL WILL NOT start without the configured ports free!
+6:05:23 PM  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+6:05:23 PM  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+6:05:23 PM  [main] 	Starting Check-Timer
+6:05:23 PM  [main] 	Control Panel Ready
+6:05:26 PM  [Apache] 	Attempting to start Apache app...
+6:05:26 PM  [Apache] 	Status change detected: running
+6:06:53 PM  [Apache] 	Attempting to stop Apache (PID: 10264)
+6:06:53 PM  [Apache] 	Attempting to stop Apache (PID: 13988)
+6:06:53 PM  [Apache] 	Status change detected: stopped
+6:06:55 PM  [Apache] 	Attempting to start Apache app...
+6:06:55 PM  [Apache] 	Status change detected: running
+6:07:10 PM  [Apache] 	Attempting to stop Apache (PID: 19988)
+6:07:10 PM  [Apache] 	Attempting to stop Apache (PID: 2712)
+6:07:10 PM  [Apache] 	Status change detected: stopped
+6:07:12 PM  [Apache] 	Attempting to start Apache app...
+6:07:12 PM  [Apache] 	Status change detected: running
+6:08:57 PM  [Apache] 	Attempting to stop Apache (PID: 21292)
+6:08:57 PM  [Apache] 	Attempting to stop Apache (PID: 9372)
+6:08:57 PM  [Apache] 	Status change detected: stopped
+7:32:49 PM  [main] 	Deinitializing Modules
+7:32:49 PM  [main] 	Deinitializing Control Panel
+
