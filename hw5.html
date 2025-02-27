@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable List</title>
+</head>
+<body>
+
+    <ul id="colorList">
+        <li style="background-color: red;">Item 1</li>
+        <li style="background-color: blue;">Item 2</li>
+        <li style="background-color: green;">Item 3</li>
+        <li style="background-color: orange;">Item 4</li>
+        <li style="background-color: purple;">Item 5</li>
+    </ul>
+
+    <script>
+        document.querySelectorAll("li").forEach(item => {
+            item.addEventListener("click", function() {
+                this.style.backgroundColor = "pink"; 
+            });
+        });
+    </script>
+
+</body>
+</html>
