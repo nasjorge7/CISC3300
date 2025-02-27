@@ -1,0 +1,22 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Nasir Jorge",
+        "age": 22,
+        "major": "Computer Science"
+      },
+      {
+        "id": 2,
+        "name": "Jalen Brunson",
+        "age": 28,
+        "major": "Sports Management"
+      },
+      {
+        "id": 3,
+        "name": "Charlie Brown",
+        "age": 21,
+        "major": "Cultural Anthropology"
+      }
+    ]
+  }
