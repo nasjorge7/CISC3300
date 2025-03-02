@@ -4,7 +4,11 @@ Homework 5
 The Document Object Model (DOM) is a programming interface for web documents which represents the page so that programs can change the document structure, style, and content. The Dom Tree is a model that is stored in the browsers' memory and consists of four main types of nodes such as the document node in the page, the element nodes in individual elements, the attribute nodes or better known as attributes and text nodes or better known as text.
 2. What is an XSS attack? How do they work? How can you guard against them? 
 
-XSS attacks is when a malicious user adds code to an input that is eventually generated as html, that code could potentially be run for different users.
+XSS attacks is when a malicious user adds code to an input that is eventually generated as html, 
+that code could potentially be run for different users.
+ How to be careful with these types of attacks is you should be aware of what content you treat as html,
+  it should also rarely have the option to show input that came from a user at all.
+   Finally you should strip the input of potential malicious intent by removing tags and escaping chracters.
 
 3. What is an event in JavaScript? What kind of events can you respond to with code? 
 A JavaScript event is an action that takes place inside an application or web page, like clicking on an element, dragging the mouse, hitting a key, or bringing up a page. These kinds of events allow us to respond to user actions and interactions and create dynamic and interactive websites.
