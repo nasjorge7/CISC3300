@@ -16,6 +16,8 @@ PHP is an excellent choice over other server-side scripting languages like Pytho
 
 5. Compare and contrast echo and var_dump. 
 echo outputs one or more expressions while var_dump dumps information about one or more variables. 
+Echo and var_dump are similar in the fact that they both output values; 
+however var_dump takes that a step further by also outputting the integer,string,object,array etc.
 
 
 
