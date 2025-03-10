@@ -75,3 +75,328 @@
 [Tue Feb 18 18:07:13.157350 2025] [ssl:warn] [pid 9372:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Tue Feb 18 18:07:13.220389 2025] [ssl:warn] [pid 9372:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
 [Tue Feb 18 18:07:13.261349 2025] [mpm_winnt:notice] [pid 9372:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 17:25:40.072337 2025] [ssl:warn] [pid 20236:tid 196] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:25:40.144667 2025] [core:warn] [pid 20236:tid 196] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 17:25:40.150505 2025] [ssl:warn] [pid 20236:tid 196] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:25:40.794505 2025] [mpm_winnt:notice] [pid 20236:tid 196] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 17:25:40.794505 2025] [mpm_winnt:notice] [pid 20236:tid 196] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 17:25:40.794505 2025] [core:notice] [pid 20236:tid 196] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 17:25:40.814270 2025] [mpm_winnt:notice] [pid 20236:tid 196] AH00418: Parent: Created child process 24060
+[Thu Feb 20 17:25:41.214176 2025] [ssl:warn] [pid 24060:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:25:41.286091 2025] [ssl:warn] [pid 24060:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:25:41.326634 2025] [mpm_winnt:notice] [pid 24060:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 17:31:43.208832 2025] [ssl:warn] [pid 24000:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:31:43.257219 2025] [core:warn] [pid 24000:tid 408] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 17:31:43.269051 2025] [ssl:warn] [pid 24000:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:31:43.298751 2025] [mpm_winnt:notice] [pid 24000:tid 408] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 17:31:43.298751 2025] [mpm_winnt:notice] [pid 24000:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 17:31:43.298751 2025] [core:notice] [pid 24000:tid 408] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 17:31:43.314829 2025] [mpm_winnt:notice] [pid 24000:tid 408] AH00418: Parent: Created child process 6396
+[Thu Feb 20 17:31:43.710712 2025] [ssl:warn] [pid 6396:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:31:43.779421 2025] [ssl:warn] [pid 6396:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:31:43.824949 2025] [mpm_winnt:notice] [pid 6396:tid 392] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 17:40:07.875353 2025] [ssl:warn] [pid 23644:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:43:41.794665 2025] [ssl:warn] [pid 23992:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:43:41.888454 2025] [core:warn] [pid 23992:tid 372] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 17:43:41.892467 2025] [ssl:warn] [pid 23992:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:43:41.930748 2025] [mpm_winnt:notice] [pid 23992:tid 372] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 17:43:41.930748 2025] [mpm_winnt:notice] [pid 23992:tid 372] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 17:43:41.930748 2025] [core:notice] [pid 23992:tid 372] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 17:43:41.941526 2025] [mpm_winnt:notice] [pid 23992:tid 372] AH00418: Parent: Created child process 17392
+[Thu Feb 20 17:43:42.356763 2025] [ssl:warn] [pid 17392:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:43:42.418520 2025] [ssl:warn] [pid 17392:tid 368] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:43:42.466300 2025] [mpm_winnt:notice] [pid 17392:tid 368] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 17:49:27.918133 2025] [ssl:warn] [pid 14656:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:49:28.012396 2025] [core:warn] [pid 14656:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 17:49:28.026190 2025] [ssl:warn] [pid 14656:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:49:28.067395 2025] [mpm_winnt:notice] [pid 14656:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 17:49:28.067395 2025] [mpm_winnt:notice] [pid 14656:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 17:49:28.067395 2025] [core:notice] [pid 14656:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 17:49:28.078330 2025] [mpm_winnt:notice] [pid 14656:tid 348] AH00418: Parent: Created child process 17328
+[Thu Feb 20 17:49:28.432575 2025] [ssl:warn] [pid 17328:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:49:28.529181 2025] [ssl:warn] [pid 17328:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:49:28.576950 2025] [mpm_winnt:notice] [pid 17328:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 17:54:52.743296 2025] [ssl:warn] [pid 19104:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:54:52.833198 2025] [core:warn] [pid 19104:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 17:54:52.840751 2025] [ssl:warn] [pid 19104:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:54:52.873215 2025] [mpm_winnt:notice] [pid 19104:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 17:54:52.873215 2025] [mpm_winnt:notice] [pid 19104:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 17:54:52.873215 2025] [core:notice] [pid 19104:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 17:54:52.889236 2025] [mpm_winnt:notice] [pid 19104:tid 348] AH00418: Parent: Created child process 13744
+[Thu Feb 20 17:54:53.430536 2025] [ssl:warn] [pid 13744:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:54:53.491036 2025] [ssl:warn] [pid 13744:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 17:54:53.538779 2025] [mpm_winnt:notice] [pid 13744:tid 360] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:00:50.843026 2025] [ssl:warn] [pid 17032:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:00:50.947095 2025] [core:warn] [pid 17032:tid 408] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:00:50.954652 2025] [ssl:warn] [pid 17032:tid 408] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:00:50.998106 2025] [mpm_winnt:notice] [pid 17032:tid 408] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:00:50.998106 2025] [mpm_winnt:notice] [pid 17032:tid 408] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:00:50.998106 2025] [core:notice] [pid 17032:tid 408] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:00:50.998106 2025] [mpm_winnt:notice] [pid 17032:tid 408] AH00418: Parent: Created child process 4692
+[Thu Feb 20 18:00:51.396757 2025] [ssl:warn] [pid 4692:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:00:51.458225 2025] [ssl:warn] [pid 4692:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:00:51.503913 2025] [mpm_winnt:notice] [pid 4692:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:02:23.900475 2025] [ssl:warn] [pid 9420:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:02:23.951568 2025] [core:warn] [pid 9420:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:02:23.959847 2025] [ssl:warn] [pid 9420:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:02:24.010154 2025] [mpm_winnt:notice] [pid 9420:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:02:24.010154 2025] [mpm_winnt:notice] [pid 9420:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:02:24.010154 2025] [core:notice] [pid 9420:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:02:24.016191 2025] [mpm_winnt:notice] [pid 9420:tid 348] AH00418: Parent: Created child process 6816
+[Thu Feb 20 18:02:24.407328 2025] [ssl:warn] [pid 6816:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:02:24.473974 2025] [ssl:warn] [pid 6816:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:02:24.518751 2025] [mpm_winnt:notice] [pid 6816:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:09:32.846430 2025] [ssl:warn] [pid 22992:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:09:32.937779 2025] [core:warn] [pid 22992:tid 364] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:09:32.951498 2025] [ssl:warn] [pid 22992:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:09:32.995310 2025] [mpm_winnt:notice] [pid 22992:tid 364] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:09:32.995310 2025] [mpm_winnt:notice] [pid 22992:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:09:32.995310 2025] [core:notice] [pid 22992:tid 364] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:09:33.001160 2025] [mpm_winnt:notice] [pid 22992:tid 364] AH00418: Parent: Created child process 6096
+[Thu Feb 20 18:09:33.392838 2025] [ssl:warn] [pid 6096:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:09:33.463350 2025] [ssl:warn] [pid 6096:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:09:33.508534 2025] [mpm_winnt:notice] [pid 6096:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:13:27.013007 2025] [ssl:warn] [pid 2020:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:13:27.110662 2025] [core:warn] [pid 2020:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:13:27.124960 2025] [ssl:warn] [pid 2020:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:13:27.169985 2025] [mpm_winnt:notice] [pid 2020:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:13:27.169985 2025] [mpm_winnt:notice] [pid 2020:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:13:27.169985 2025] [core:notice] [pid 2020:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:13:27.169985 2025] [mpm_winnt:notice] [pid 2020:tid 348] AH00418: Parent: Created child process 23608
+[Thu Feb 20 18:13:27.598273 2025] [ssl:warn] [pid 23608:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:13:27.663867 2025] [ssl:warn] [pid 23608:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:13:27.711061 2025] [mpm_winnt:notice] [pid 23608:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:40:40.018366 2025] [ssl:warn] [pid 11956:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:40:40.083232 2025] [core:warn] [pid 11956:tid 364] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:40:40.083232 2025] [ssl:warn] [pid 11956:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:40:40.137499 2025] [mpm_winnt:notice] [pid 11956:tid 364] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:40:40.137499 2025] [mpm_winnt:notice] [pid 11956:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:40:40.137499 2025] [core:notice] [pid 11956:tid 364] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:40:40.137499 2025] [mpm_winnt:notice] [pid 11956:tid 364] AH00418: Parent: Created child process 16308
+[Thu Feb 20 18:40:40.592982 2025] [ssl:warn] [pid 16308:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:40:40.661257 2025] [ssl:warn] [pid 16308:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:40:40.699310 2025] [mpm_winnt:notice] [pid 16308:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:47:39.699626 2025] [ssl:warn] [pid 18360:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:47:39.806378 2025] [core:warn] [pid 18360:tid 372] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:47:39.810404 2025] [ssl:warn] [pid 18360:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:47:39.858434 2025] [mpm_winnt:notice] [pid 18360:tid 372] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:47:39.858434 2025] [mpm_winnt:notice] [pid 18360:tid 372] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:47:39.858434 2025] [core:notice] [pid 18360:tid 372] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:47:39.858434 2025] [mpm_winnt:notice] [pid 18360:tid 372] AH00418: Parent: Created child process 21228
+[Thu Feb 20 18:47:40.270735 2025] [ssl:warn] [pid 21228:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:47:40.334579 2025] [ssl:warn] [pid 21228:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:47:40.376015 2025] [mpm_winnt:notice] [pid 21228:tid 348] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:56:04.521188 2025] [ssl:warn] [pid 14864:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:56:04.622550 2025] [core:warn] [pid 14864:tid 384] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:56:04.630634 2025] [ssl:warn] [pid 14864:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:56:04.663734 2025] [mpm_winnt:notice] [pid 14864:tid 384] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:56:04.663734 2025] [mpm_winnt:notice] [pid 14864:tid 384] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:56:04.663734 2025] [core:notice] [pid 14864:tid 384] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:56:04.679858 2025] [mpm_winnt:notice] [pid 14864:tid 384] AH00418: Parent: Created child process 3368
+[Thu Feb 20 18:56:05.036238 2025] [ssl:warn] [pid 3368:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:56:05.091706 2025] [ssl:warn] [pid 3368:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:56:05.139378 2025] [mpm_winnt:notice] [pid 3368:tid 392] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 20 18:58:06.378088 2025] [ssl:warn] [pid 8904:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:58:06.483261 2025] [core:warn] [pid 8904:tid 388] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 20 18:58:06.490772 2025] [ssl:warn] [pid 8904:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:58:06.531900 2025] [mpm_winnt:notice] [pid 8904:tid 388] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 20 18:58:06.531900 2025] [mpm_winnt:notice] [pid 8904:tid 388] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 20 18:58:06.531900 2025] [core:notice] [pid 8904:tid 388] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 20 18:58:06.542616 2025] [mpm_winnt:notice] [pid 8904:tid 388] AH00418: Parent: Created child process 25204
+[Thu Feb 20 18:58:06.891715 2025] [ssl:warn] [pid 25204:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:58:06.962710 2025] [ssl:warn] [pid 25204:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 20 18:58:07.004867 2025] [mpm_winnt:notice] [pid 25204:tid 372] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 24 17:10:11.549505 2025] [ssl:warn] [pid 14480:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:11.597056 2025] [core:warn] [pid 14480:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 17:10:11.613541 2025] [ssl:warn] [pid 14480:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:12.406854 2025] [mpm_winnt:notice] [pid 14480:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 24 17:10:12.406854 2025] [mpm_winnt:notice] [pid 14480:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 24 17:10:12.406854 2025] [core:notice] [pid 14480:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Mon Feb 24 17:10:12.413242 2025] [mpm_winnt:notice] [pid 14480:tid 348] AH00418: Parent: Created child process 26896
+[Mon Feb 24 17:10:12.840427 2025] [ssl:warn] [pid 26896:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:12.885304 2025] [ssl:warn] [pid 26896:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:12.931948 2025] [mpm_winnt:notice] [pid 26896:tid 348] AH00354: Child: Starting 150 worker threads.
+[Mon Feb 24 17:10:25.655134 2025] [ssl:warn] [pid 17384:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:25.748437 2025] [core:warn] [pid 17384:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Feb 24 17:10:25.752453 2025] [ssl:warn] [pid 17384:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:25.790993 2025] [mpm_winnt:notice] [pid 17384:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Feb 24 17:10:25.790993 2025] [mpm_winnt:notice] [pid 17384:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Feb 24 17:10:25.790993 2025] [core:notice] [pid 17384:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Mon Feb 24 17:10:25.790993 2025] [mpm_winnt:notice] [pid 17384:tid 348] AH00418: Parent: Created child process 7604
+[Mon Feb 24 17:10:26.250837 2025] [ssl:warn] [pid 7604:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:26.314018 2025] [ssl:warn] [pid 7604:tid 412] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Feb 24 17:10:26.346056 2025] [mpm_winnt:notice] [pid 7604:tid 412] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 16:50:05.176041 2025] [ssl:warn] [pid 18624:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 16:50:05.223218 2025] [core:warn] [pid 18624:tid 356] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 16:50:05.239050 2025] [ssl:warn] [pid 18624:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 16:50:05.761730 2025] [mpm_winnt:notice] [pid 18624:tid 356] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 16:50:05.761730 2025] [mpm_winnt:notice] [pid 18624:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 16:50:05.761730 2025] [core:notice] [pid 18624:tid 356] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 16:50:05.767741 2025] [mpm_winnt:notice] [pid 18624:tid 356] AH00418: Parent: Created child process 7640
+[Thu Feb 27 16:50:06.156126 2025] [ssl:warn] [pid 7640:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 16:50:06.211021 2025] [ssl:warn] [pid 7640:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 16:50:06.253090 2025] [mpm_winnt:notice] [pid 7640:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 16:52:51.323991 2025] [php:warn] [pid 7640:tid 1928] [client ::1:63904] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 16:53:55.499393 2025] [php:warn] [pid 7640:tid 1932] [client ::1:63931] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 16:54:08.573575 2025] [php:warn] [pid 7640:tid 1928] [client ::1:63932] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 16:54:13.675287 2025] [php:warn] [pid 7640:tid 1932] [client ::1:63935] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 16:56:07.385861 2025] [php:warn] [pid 7640:tid 1928] [client ::1:63960] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 16:59:31.536403 2025] [php:warn] [pid 7640:tid 1928] [client ::1:63995] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:11.187024 2025] [ssl:warn] [pid 20036:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:00:11.286700 2025] [core:warn] [pid 20036:tid 352] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 17:00:11.292733 2025] [ssl:warn] [pid 20036:tid 352] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:00:11.329125 2025] [mpm_winnt:notice] [pid 20036:tid 352] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 17:00:11.329125 2025] [mpm_winnt:notice] [pid 20036:tid 352] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 17:00:11.329125 2025] [core:notice] [pid 20036:tid 352] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 17:00:11.329125 2025] [mpm_winnt:notice] [pid 20036:tid 352] AH00418: Parent: Created child process 19232
+[Thu Feb 27 17:00:11.836856 2025] [ssl:warn] [pid 19232:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:00:11.905798 2025] [ssl:warn] [pid 19232:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:00:11.946898 2025] [mpm_winnt:notice] [pid 19232:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 17:00:15.196672 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:15.226544 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/inclass12
+[Thu Feb 27 17:00:17.769422 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:17.801807 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/inclass11/index.php
+[Thu Feb 27 17:00:22.549693 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:22.575866 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64008] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/inclass11/index.php
+[Thu Feb 27 17:00:31.672936 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64009] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:31.700224 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64009] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/test
+[Thu Feb 27 17:00:37.237846 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64016] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:37.263519 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64016] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/test
+[Thu Feb 27 17:00:51.332599 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64019] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:51.349129 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64019] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/test
+[Thu Feb 27 17:00:55.199963 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64019] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:00:55.220854 2025] [php:warn] [pid 19232:tid 1912] [client ::1:64019] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/test
+[Thu Feb 27 17:01:04.913455 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64020] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:01:04.955858 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64020] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/
+[Thu Feb 27 17:01:08.422828 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64020] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:01:08.447888 2025] [php:warn] [pid 19232:tid 1920] [client ::1:64020] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10, referer: http://localhost/test
+[Thu Feb 27 17:01:14.477894 2025] [ssl:warn] [pid 15848:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:01:14.569183 2025] [core:warn] [pid 15848:tid 364] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 17:01:14.583065 2025] [ssl:warn] [pid 15848:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:01:14.614577 2025] [mpm_winnt:notice] [pid 15848:tid 364] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 17:01:14.614577 2025] [mpm_winnt:notice] [pid 15848:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 17:01:14.614577 2025] [core:notice] [pid 15848:tid 364] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 17:01:14.628932 2025] [mpm_winnt:notice] [pid 15848:tid 364] AH00418: Parent: Created child process 6572
+[Thu Feb 27 17:01:14.993070 2025] [ssl:warn] [pid 6572:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:01:15.056815 2025] [ssl:warn] [pid 6572:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:01:15.097591 2025] [mpm_winnt:notice] [pid 6572:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 17:05:53.967723 2025] [php:warn] [pid 6572:tid 1916] [client ::1:64097] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 10
+[Thu Feb 27 17:06:16.998414 2025] [php:warn] [pid 6572:tid 1920] [client ::1:64098] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Thu Feb 27 17:06:18.244242 2025] [php:warn] [pid 6572:tid 1920] [client ::1:64098] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Thu Feb 27 17:06:25.965318 2025] [php:warn] [pid 6572:tid 1916] [client ::1:64099] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Thu Feb 27 17:06:31.897712 2025] [php:warn] [pid 6572:tid 1920] [client ::1:64100] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Thu Feb 27 17:06:35.547682 2025] [authz_core:error] [pid 6572:tid 1920] [client ::1:64100] AH01630: client denied by server configuration: C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/anonymous/inclass12/.html
+[Thu Feb 27 17:06:41.162370 2025] [php:warn] [pid 6572:tid 1916] [client ::1:64104] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Thu Feb 27 17:15:26.925822 2025] [ssl:warn] [pid 8132:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:15:27.023503 2025] [core:warn] [pid 8132:tid 356] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 17:15:27.028570 2025] [ssl:warn] [pid 8132:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:15:27.070276 2025] [mpm_winnt:notice] [pid 8132:tid 356] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 17:15:27.070276 2025] [mpm_winnt:notice] [pid 8132:tid 356] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 17:15:27.070276 2025] [core:notice] [pid 8132:tid 356] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 17:15:27.070276 2025] [mpm_winnt:notice] [pid 8132:tid 356] AH00418: Parent: Created child process 22560
+[Thu Feb 27 17:15:27.451488 2025] [ssl:warn] [pid 22560:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:15:27.509907 2025] [ssl:warn] [pid 22560:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:15:27.545093 2025] [mpm_winnt:notice] [pid 22560:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 17:17:11.203096 2025] [ssl:warn] [pid 20724:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:11.296819 2025] [core:warn] [pid 20724:tid 364] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 17:17:11.300013 2025] [ssl:warn] [pid 20724:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:11.346227 2025] [mpm_winnt:notice] [pid 20724:tid 364] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 17:17:11.346227 2025] [mpm_winnt:notice] [pid 20724:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 17:17:11.346227 2025] [core:notice] [pid 20724:tid 364] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 17:17:11.351507 2025] [mpm_winnt:notice] [pid 20724:tid 364] AH00418: Parent: Created child process 24444
+[Thu Feb 27 17:17:11.696822 2025] [ssl:warn] [pid 24444:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:11.758426 2025] [ssl:warn] [pid 24444:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:11.796117 2025] [mpm_winnt:notice] [pid 24444:tid 360] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 17:17:40.526839 2025] [ssl:warn] [pid 9516:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:40.618354 2025] [core:warn] [pid 9516:tid 388] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 27 17:17:40.628472 2025] [ssl:warn] [pid 9516:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:40.667537 2025] [mpm_winnt:notice] [pid 9516:tid 388] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Feb 27 17:17:40.667537 2025] [mpm_winnt:notice] [pid 9516:tid 388] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Feb 27 17:17:40.667537 2025] [core:notice] [pid 9516:tid 388] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Feb 27 17:17:40.667537 2025] [mpm_winnt:notice] [pid 9516:tid 388] AH00418: Parent: Created child process 21220
+[Thu Feb 27 17:17:41.061840 2025] [ssl:warn] [pid 21220:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:41.126102 2025] [ssl:warn] [pid 21220:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 27 17:17:41.176628 2025] [mpm_winnt:notice] [pid 21220:tid 344] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 27 17:17:48.691609 2025] [php:warn] [pid 21220:tid 1980] [client ::1:64471] PHP Warning:  readfile(&lt;inclass-12&gt;&lt;/inclass-12&gt;.html): Failed to open stream: No such file or directory in C:\\Users\\nasir\\Users\\you\\classwork\\CISC3300\\MAMP\\anonymous\\inclass12\\index.php on line 11
+[Mon Mar 03 17:14:41.251514 2025] [ssl:warn] [pid 32240:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:14:41.310874 2025] [core:warn] [pid 32240:tid 348] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 03 17:14:41.314351 2025] [ssl:warn] [pid 32240:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:14:41.850252 2025] [mpm_winnt:notice] [pid 32240:tid 348] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Mar 03 17:14:41.850252 2025] [mpm_winnt:notice] [pid 32240:tid 348] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 03 17:14:41.850252 2025] [core:notice] [pid 32240:tid 348] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Mon Mar 03 17:14:41.858250 2025] [mpm_winnt:notice] [pid 32240:tid 348] AH00418: Parent: Created child process 8920
+[Mon Mar 03 17:14:42.266830 2025] [ssl:warn] [pid 8920:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:14:42.324070 2025] [ssl:warn] [pid 8920:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:14:42.366595 2025] [mpm_winnt:notice] [pid 8920:tid 360] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 03 17:15:33.125915 2025] [ssl:warn] [pid 22480:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:15:33.179437 2025] [core:warn] [pid 22480:tid 364] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 03 17:15:33.182442 2025] [ssl:warn] [pid 22480:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:15:33.222564 2025] [mpm_winnt:notice] [pid 22480:tid 364] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Mon Mar 03 17:15:33.222564 2025] [mpm_winnt:notice] [pid 22480:tid 364] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Mar 03 17:15:33.222564 2025] [core:notice] [pid 22480:tid 364] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Mon Mar 03 17:15:33.226766 2025] [mpm_winnt:notice] [pid 22480:tid 364] AH00418: Parent: Created child process 12408
+[Mon Mar 03 17:15:33.579619 2025] [ssl:warn] [pid 12408:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:15:33.630645 2025] [ssl:warn] [pid 12408:tid 376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 03 17:15:33.672640 2025] [mpm_winnt:notice] [pid 12408:tid 376] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 05 23:19:38.873617 2025] [ssl:warn] [pid 24856:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:19:38.928597 2025] [core:warn] [pid 24856:tid 444] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 05 23:19:38.932742 2025] [ssl:warn] [pid 24856:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:19:39.493119 2025] [mpm_winnt:notice] [pid 24856:tid 444] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Mar 05 23:19:39.493119 2025] [mpm_winnt:notice] [pid 24856:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 05 23:19:39.493119 2025] [core:notice] [pid 24856:tid 444] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Wed Mar 05 23:19:39.504119 2025] [mpm_winnt:notice] [pid 24856:tid 444] AH00418: Parent: Created child process 21012
+[Wed Mar 05 23:19:39.848689 2025] [ssl:warn] [pid 21012:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:19:39.901765 2025] [ssl:warn] [pid 21012:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:19:39.940819 2025] [mpm_winnt:notice] [pid 21012:tid 444] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 05 23:20:53.375686 2025] [ssl:warn] [pid 24816:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:20:53.427845 2025] [core:warn] [pid 24816:tid 448] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 05 23:20:53.431781 2025] [ssl:warn] [pid 24816:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:20:53.469576 2025] [mpm_winnt:notice] [pid 24816:tid 448] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Wed Mar 05 23:20:53.469576 2025] [mpm_winnt:notice] [pid 24816:tid 448] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Wed Mar 05 23:20:53.469576 2025] [core:notice] [pid 24816:tid 448] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Wed Mar 05 23:20:53.473575 2025] [mpm_winnt:notice] [pid 24816:tid 448] AH00418: Parent: Created child process 13712
+[Wed Mar 05 23:20:53.855149 2025] [ssl:warn] [pid 13712:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:20:53.910688 2025] [ssl:warn] [pid 13712:tid 464] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 05 23:20:53.951953 2025] [mpm_winnt:notice] [pid 13712:tid 464] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 06 16:06:30.568117 2025] [ssl:warn] [pid 21100:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:06:30.616117 2025] [core:warn] [pid 21100:tid 468] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 06 16:06:30.619117 2025] [ssl:warn] [pid 21100:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:06:30.675732 2025] [mpm_winnt:notice] [pid 21100:tid 468] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Mar 06 16:06:30.675732 2025] [mpm_winnt:notice] [pid 21100:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 06 16:06:30.675732 2025] [core:notice] [pid 21100:tid 468] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Mar 06 16:06:30.679727 2025] [mpm_winnt:notice] [pid 21100:tid 468] AH00418: Parent: Created child process 22476
+[Thu Mar 06 16:06:30.978275 2025] [ssl:warn] [pid 22476:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:06:31.021643 2025] [ssl:warn] [pid 22476:tid 444] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:06:31.057398 2025] [mpm_winnt:notice] [pid 22476:tid 444] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 06 16:09:58.572012 2025] [mpm_winnt:crit] [pid 22476:tid 444] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Mar 06 16:14:10.840872 2025] [ssl:warn] [pid 23532:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:14:10.897470 2025] [core:warn] [pid 23532:tid 452] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 06 16:14:10.900508 2025] [ssl:warn] [pid 23532:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:14:10.935791 2025] [mpm_winnt:notice] [pid 23532:tid 452] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Mar 06 16:14:10.935791 2025] [mpm_winnt:notice] [pid 23532:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 06 16:14:10.935791 2025] [core:notice] [pid 23532:tid 452] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Mar 06 16:14:10.939753 2025] [mpm_winnt:notice] [pid 23532:tid 452] AH00418: Parent: Created child process 16416
+[Thu Mar 06 16:14:11.245846 2025] [ssl:warn] [pid 16416:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:14:11.290931 2025] [ssl:warn] [pid 16416:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:14:11.327905 2025] [mpm_winnt:notice] [pid 16416:tid 468] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 06 16:22:09.507502 2025] [mpm_winnt:crit] [pid 16416:tid 468] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Mar 06 16:22:24.560453 2025] [ssl:warn] [pid 16732:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:22:24.601701 2025] [core:warn] [pid 16732:tid 476] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 06 16:22:24.605373 2025] [ssl:warn] [pid 16732:tid 476] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:22:24.638409 2025] [mpm_winnt:notice] [pid 16732:tid 476] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Mar 06 16:22:24.638409 2025] [mpm_winnt:notice] [pid 16732:tid 476] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 06 16:22:24.638409 2025] [core:notice] [pid 16732:tid 476] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Mar 06 16:22:24.641336 2025] [mpm_winnt:notice] [pid 16732:tid 476] AH00418: Parent: Created child process 14740
+[Thu Mar 06 16:22:24.936198 2025] [ssl:warn] [pid 14740:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:22:24.979374 2025] [ssl:warn] [pid 14740:tid 468] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 16:22:25.013351 2025] [mpm_winnt:notice] [pid 14740:tid 468] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 06 17:26:00.667043 2025] [ssl:warn] [pid 25956:tid 208] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 17:26:00.723214 2025] [core:warn] [pid 25956:tid 208] AH00098: pid file C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 06 17:26:00.726213 2025] [ssl:warn] [pid 25956:tid 208] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 17:26:00.761409 2025] [mpm_winnt:notice] [pid 25956:tid 208] AH00455: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 configured -- resuming normal operations
+[Thu Mar 06 17:26:00.761409 2025] [mpm_winnt:notice] [pid 25956:tid 208] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 06 17:26:00.761409 2025] [core:notice] [pid 25956:tid 208] AH00094: Command line: 'c:\\users\\nasir\\users\\you\\classwork\\cisc3300\\mamp\\apache\\bin\\httpd.exe -d C:/Users/nasir/Users/you/classwork/CISC3300/MAMP/apache'
+[Thu Mar 06 17:26:00.765047 2025] [mpm_winnt:notice] [pid 25956:tid 208] AH00418: Parent: Created child process 3808
+[Thu Mar 06 17:26:01.080318 2025] [ssl:warn] [pid 3808:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 17:26:01.126644 2025] [ssl:warn] [pid 3808:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 06 17:26:01.163192 2025] [mpm_winnt:notice] [pid 3808:tid 448] AH00354: Child: Starting 150 worker threads.

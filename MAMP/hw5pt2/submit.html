@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Submit Form</title>
+    <meta charset="UTF-8">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        .success-message {
+            color: white;
+            background-color: green;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+        .error-message {
+            color: white;
+            background-color: red;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="formContainer">
+        <form id="userForm">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div id="responseMessage"></div>
+
+    <script>
+        $(document).ready(function() {
+            $('#userForm').submit(function(event) {
+                event.preventDefault();
+                const formData = $(this).serialize();
+                
+                $.ajax({
+                    url: 'http://localhost:8888/',
+                    type: 'POST',
+                    data: formData,
+                    dataType: 'json',
+                    success: function(response) {
+                        let messageClass = response.message.includes("Error") ? "error-message" : "success-message";
+                        $('#responseMessage').html(`<div class="${messageClass}">${response.message}</div>`);
+                    },
+                    error: function() {
+                        $('#responseMessage').html('<div class="error-message">Error submitting form.</div>');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
